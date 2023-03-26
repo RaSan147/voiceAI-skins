@@ -6,7 +6,7 @@
 		"moc/asuna_55.1024/texture_01.png",
 		"moc/asuna_55.1024/texture_02.png",
 		"moc/asuna_55.1024/texture_03.png",
-		"moc/asuna_55.1024/texture_04.png"
+
 	],
 	"expressions":[
 		{"name":"F_FUN_WARM","file":"exp/F_FUN_WARM.exp.json"},
